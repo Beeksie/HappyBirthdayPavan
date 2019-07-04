@@ -120,7 +120,8 @@
     width:70%
   }
   .main-app .steps {
-    width: 80%;
+    margin-left: 1rem;
+    width: 70%;
     height:60%;
   }
 }
