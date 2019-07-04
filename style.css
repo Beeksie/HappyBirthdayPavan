@@ -1,7 +1,6 @@
 * {box-sizing:border-box; font-family:arial; color:#555;}
 
 .main-app {
-
   position: relative;
   height: 35rem;
 }
@@ -119,5 +118,9 @@
   }
   .carousel-item .medium{
     width:70%
+  }
+  .main-app .steps {
+    width: 80%;
+    height:60%;
   }
 }
