@@ -111,8 +111,8 @@
 @media screen and (max-width: 900px) {
   .carousel-item img{
     width: 100%;
-    height: 30rem;
-    max-height: 30rem;
+    height: 20rem;
+    max-height: 20rem;
   }
   .carousel-item .tiny{
     width:50%
